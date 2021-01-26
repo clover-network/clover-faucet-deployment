@@ -1,7 +1,6 @@
 {
   "name": "clover-faucet",
   "short_name": "clover-faucet",
-  "description": "Project for Faucet",
   "icons": [],
   "start_url": "/?standalone=true",
   "display": "standalone",
